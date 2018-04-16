@@ -1,4 +1,5 @@
-# AXPhotoViewer [![Build Status](https://travis-ci.org/alexhillc/AXPhotoViewer.svg?branch=master)](https://travis-ci.org/alexhillc/AXPhotoViewer) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Dmitriymazurenko/AXPhotoViewer)
+# AXPhotoViewer
+[![Build Status](https://travis-ci.org/alexhillc/AXPhotoViewer.svg?branch=master)](https://travis-ci.org/alexhillc/AXPhotoViewer) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Dmitriymazurenko/AXPhotoViewer)
 
 <p align="center">
   <img src="http://i.imgur.com/Y3ovA03.gif" alt="Demo GIF #1"/>
